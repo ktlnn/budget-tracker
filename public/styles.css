@@ -1,6 +1,8 @@
 body {
   font-size: 120%;
   font-family: Arial;
+  background-image: url("https://images.pexels.com/photos/4386442/pexels-photo-4386442.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+  background-size: cover;
 }
 
 button, input {
@@ -35,6 +37,8 @@ tr:nth-child(even) {
 .total {
   font-size: 150%;
   text-decoration: underline;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: white;
 }
 
 .form {
@@ -48,4 +52,10 @@ tr:nth-child(even) {
   overflow: auto;
   width: 90%;
   margin: 0 auto;
+  background-color: white;
+}
+
+#myChart {
+  margin-top: 15px;
+  background-color: white;
 }

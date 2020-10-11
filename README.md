@@ -20,9 +20,9 @@ Budget Tracker is an application that allows users to track their withdrawals an
 ## Installation
 Budget Tracker is able to be used three different ways:
 ```
-1. First way is to clone this repository and run an npm install or yarn add in your terminal, then run the server and use Budget Tracker on your local server. 
-2. Second way is to click the link to the deployed application and use it in your web browser.
-3. Third way is to navigate to the right side of the local server or deployed application URL and click the plus sign, then install Budget Tracker and use it without internet connection. 
+First way is to clone this repository and run an npm install or yarn add in your terminal, then run the server and use Budget Tracker on your local server. 
+Second way is to click the link to the deployed application and use it in your web browser.
+Third way is to navigate to the right side of the local server or deployed application URL and click the plus sign, then install Budget Tracker and use it without internet connection. 
 ```
 
 ## License

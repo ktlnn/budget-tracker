@@ -3,7 +3,7 @@
 ## Links 
 - Deployed Application: https://intense-reef-26907.herokuapp.com/
 
-##Table of Contents
+## Table of Contents
 * [User Story](#user-story)
 * [Business Context](#business-context)
 * [How Budget Tracker Works](#how-budget-tracker-works)

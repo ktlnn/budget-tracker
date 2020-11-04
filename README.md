@@ -1,7 +1,15 @@
-# budget-tracker
+# budget-tracker [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Links 
 - Deployed Application: https://intense-reef-26907.herokuapp.com/
+
+##Table of Contents
+* [User Story](#user-story)
+* [Business Context](#business-context)
+* [How Budget Tracker Works](#how-budget-tracker-works)
+* [Installation](#installation)
+* [Webpage Screenshots](#webpage-screenshots)
+* [Questions](#Questions)
 
 ## User Story
 ```
@@ -23,10 +31,9 @@ First way is to clone this repository and run an npm install or yarn add in your
 Second way is to click the link to the deployed application and use it in your web browser.
 Third way is to navigate to the right side of the local server or deployed application URL and click the plus sign, then install Budget Tracker and use it without internet connection. 
 
-
-## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-## Screenshots
+## Webpage Screenshots
 ![budget-tracker-screenshot](images/budget-tracker-screenshot.png)
 ![budget-tracker-demo](images/budget-tracker-demo.gif)
+
+## Questions 
+If you have any questions about Budget Tracker, feel free to email me at: ktlnn.nguyen@gmail.com
